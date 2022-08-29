@@ -15,6 +15,7 @@ double getArea (int s1, int s2, int s3) {
     
 int main() {
 
-    double area= getArea(10,10,10);
+    double area= getArea(20,10,10);
     cout << "the area is: " << area << endl;
 }
+
